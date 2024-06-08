@@ -1,0 +1,14 @@
+body{
+    font-size: 1.5em;
+    font-style: italic;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#mySubmit{
+    font-size: 1em;
+}
+
+input{
+    height: 15px;
+    width: 15px;
+    margin-right: 0px;
+}
