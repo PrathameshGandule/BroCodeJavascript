@@ -32,7 +32,7 @@ function execute(){
         }
 
         if(allowedChars.length === 0){
-            return `atleast 1 character must be allowed`;
+            return `(atleast 1 parameter must be allowed)`;
         }
 
         for(let i=0 ; i<length ; i++){
