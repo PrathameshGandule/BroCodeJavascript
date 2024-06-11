@@ -1,0 +1,25 @@
+body{
+    background-image: url(carina_nebula.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+#clock_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#clock{
+    font-family: monospace;
+    font-size: 6rem;
+    font-weight: bold;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    backdrop-filter: blur(3px);
+    width: 100%;
+    background-color: hsla(0, 0%, 100, 0.1);
+    padding: 35px;
+}
