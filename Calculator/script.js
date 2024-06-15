@@ -16,3 +16,7 @@ function calculate(){
         display.value = "error"
     }
 }
+
+function backspace(){
+    display.value = display.value.slice(0,-1);
+}

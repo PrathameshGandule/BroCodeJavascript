@@ -7,7 +7,7 @@ body{
     background-color: hsl(0, 0%, 95%);
 }
 #calculator{
-    font-family: Arial, Helvetica, sans-serif;;
+    font-family: monospace;
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
     max-width: 400px;
@@ -38,7 +38,7 @@ button{
     font-size: 3.5rem;
     text-align: left;
     border: none;
-    background-color: hsl(0, 0%, 20%);
+    background-color: hsl(0, 0%, 25%);
     color: white;
 }
 button:hover{
